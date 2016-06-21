@@ -12,3 +12,4 @@ print("\n Author = ", __author__)
 cal = calendar.month(1994, 11)
 
 print("\n The June 2016 calender is as below: \n", cal)
+print("\n Good bye")
