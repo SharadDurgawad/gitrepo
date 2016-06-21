@@ -19,6 +19,6 @@ print("\n The June 2016 calender is as below: \n", cal)
 
 t0 = time.clock()
 ProcTime()
-print("\n Time to run ProcTime: ", time.clock() - t0)
+print("\n Time to run ProcTime function: ", time.clock() - t0)
 
 print("\n Good bye")
