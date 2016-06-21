@@ -2,7 +2,7 @@ import sys
 import os
 print("Current working directory", os.getcwd())
 
-a = int(22)
+a = int(19)
 original = a
 visited = set()
 
